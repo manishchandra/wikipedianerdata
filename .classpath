@@ -2,25 +2,24 @@
 <classpath>
 	<classpathentry kind="src" path="src/main"/>
 	<classpathentry kind="src" path="src/test"/>
-	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
-	<classpathentry kind="lib" path="C:/Java/junit-4.8.2-src.jar"/>
-	<classpathentry kind="lib" path="C:/Java/junit-dep-4.8.2.jar"/>
-	<classpathentry kind="lib" path="C:/Java/mockito-all-1.8.5.jar"/>
-	<classpathentry kind="lib" path="C:/Java/commons-dbcp-1.4-bin/commons-dbcp-1.4/commons-dbcp-1.4.jar" sourcepath="C:/Java/commons-dbcp-1.4-bin/commons-dbcp-1.4/commons-dbcp-1.4-sources.jar">
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry exported="true" kind="lib" path="/Users/Jessica/workspace/wikipedianerdata/libs/junit-4.8.2.jar"/>
+	<classpathentry exported="true" kind="lib" path="/Users/Jessica/workspace/wikipedianerdata/libs/mockito-all-1.8.5.jar"/>
+	<classpathentry exported="true" kind="lib" path="/Users/Jessica/workspace/wikipedianerdata/libs/commons-dbcp-1.4-bin/commons-dbcp-1.4/commons-dbcp-1.4.jar" sourcepath="C:/Java/commons-dbcp-1.4-bin/commons-dbcp-1.4/commons-dbcp-1.4-sources.jar">
 		<attributes>
 			<attribute name="javadoc_location" value="file:/C:/Java/commons-dbcp-1.4-bin/commons-dbcp-1.4/"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="C:/Java/mysql-connector-java-5.1.12/mysql-connector-java-5.1.12-bin.jar" sourcepath="C:/Java/mysql-connector-java-5.1.12/src">
+	<classpathentry exported="true" kind="lib" path="/Users/Jessica/workspace/wikipedianerdata/libs/mysql-connector-java-5.1.12/mysql-connector-java-5.1.12-bin.jar" sourcepath="C:/Java/mysql-connector-java-5.1.12/src">
 		<attributes>
 			<attribute name="javadoc_location" value="file:/C:/Java/mysql-connector-java-5.1.12/docs/"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="C:/Java/google-collect-1.0/google-collect-1.0.jar" sourcepath="C:/Java/google-collect-1.0/src-1.0.zip">
+	<classpathentry exported="true" kind="lib" path="/Users/Jessica/workspace/wikipedianerdata/libs/google-collect-1.0/google-collect-1.0.jar" sourcepath="C:/Java/google-collect-1.0/src-1.0.zip">
 		<attributes>
 			<attribute name="javadoc_location" value="file:/C:/Java/google-collect-1.0/javadoc/"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="C:/Java/apache-log4j-1.2.15/log4j-1.2.15.jar" sourcepath="C:/Java/apache-log4j-1.2.15/src"/>
+	<classpathentry exported="true" kind="lib" path="/Users/Jessica/workspace/wikipedianerdata/libs/apache-log4j-1.2.15/log4j-1.2.15.jar" sourcepath="C:/Java/apache-log4j-1.2.15/src"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
